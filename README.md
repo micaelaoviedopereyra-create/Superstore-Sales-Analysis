@@ -72,6 +72,15 @@ Additional product analysis was performed using:
 
 - Top 10 Products by Sales
 - Products with Negative Profit
+## Power BI Dashboard
+
+### Overview
+
+![Power BI Dashboard](powerbi_dashboard.png)
+
+### Product & Region Analysis
+
+![Power BI Analysis](powerbi_analysis.png)
 
 ## Key Insights
 
