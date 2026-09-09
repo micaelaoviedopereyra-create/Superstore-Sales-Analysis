@@ -42,9 +42,15 @@ The main data cleaning steps included:
 
 ## Analysis Approach
 
-The project combines Excel and Power BI for data preparation, exploration, visualization, and business analysis.
+The project combines Excel, SQL, and Power BI for data preparation, analysis, visualization, and business insights.
 
-SQL analysis will be added to the project as a complementary analysis using the skills developed during the project.
+SQL was used to perform additional business analysis on the Superstore dataset, including:
+
+- Category performance.
+- Product profitability.
+- Discount vs. profitability.
+- Top customers by sales.
+- Product ranking within each category.
 
 ## Power BI Analysis
 
@@ -69,21 +75,29 @@ Additional product analysis was performed using:
 
 ## Key Insights
 
+### Category performance
+
+Technology generated the highest sales and profit among the three categories, while Furniture generated significantly lower profit despite having substantial sales.
+
 ### Top-performing product
 
 The Canon imageCLASS 2200 Advanced Copier was the highest-selling product among the Top 10 products analyzed, generating approximately 61,600 in sales and 25,200 in profit.
 
 ### Products with negative profitability
 
-Several products generated significant sales but negative profit:
+Several products generated significant sales but negative profit, showing that high sales do not necessarily translate into profitability.
 
-- Cisco TelePresence System: approximately -1,811 in profit.
-- GBC DocuBind P400: approximately -1,878 in profit.
-- High Speed Automatic Electric Letter Opener: approximately -262 in profit.
+### Discount and profitability
 
-### Sales do not necessarily mean profitability
+Higher discount levels were associated with lower profitability in the dataset. Discount levels of 30% or more showed negative total profit.
 
-One of the main findings was that high sales volume does not necessarily translate into high profitability. This highlights the importance of analyzing sales together with profit when evaluating product performance.
+### Customer profitability
+
+Sean Miller was the highest-selling customer, generating approximately 25,043 in sales but a negative profit of approximately -1,981.
+
+### Main business insight
+
+Sales performance should be evaluated together with profitability. High sales alone do not guarantee that a product or customer is financially valuable to the business.
 
 ## Business Recommendations
 
